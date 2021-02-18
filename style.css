@@ -1,0 +1,41 @@
+.logo {
+    font-weight: bold;
+    
+    color:white;
+    font-size: 40px;
+    font-style:bold;
+    
+}
+.h2 {font-weight: bold;}
+
+
+
+
+.first image {
+    width: 40%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: right;
+}
+
+.p{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.p1{
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+}
+
+.image{
+    height: 200px;
+    width : 300px;
+    
+}
